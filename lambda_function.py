@@ -5,4 +5,4 @@ def lambda_handler(event,context):
     }
     df = pd.DataFrame(data=d)
     print(df)
-    print('done')
+    print('done & finished')
